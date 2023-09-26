@@ -7,6 +7,7 @@ const Navigation = () => {
         <div className='sticky top-0 backdrop-blur-md bg-[rgba(0,0,0,0.8)] border-b border-slate-800 z-50'>
             
         </div>
-    // abondon project
+    // abondon projectclear
+    
     )
 }
